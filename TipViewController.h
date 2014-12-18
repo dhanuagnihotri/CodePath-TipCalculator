@@ -1,0 +1,12 @@
+//
+//  TipViewController.h
+//  TipCalculator
+//
+//  Created by Dhanu Agnihotri on 12/14/14.
+//  Copyright (c) 2014 ___SocietyTech___. All rights reserved.
+
+#import <UIKit/UIKit.h>
+
+@interface TipViewController : UIViewController
+
+@end
