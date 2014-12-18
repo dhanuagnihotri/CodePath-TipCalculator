@@ -3,17 +3,12 @@ CodePath-TipCalculator
 
 CodePath TipCalculator project
 
-This is an iOS demo for TipCalculator App. 
-
-The App calculate the tip amount based on a tip percentage and Bill Amount. 
-
-Default tip % can be adjusted. 
-
-Two color themes of dark blue and light blue are currently available.
-
-Ability to round off the total. 
-
-App works in potrait and landscape mode. 
+This is an iOS demo for TipCalculator App.    
+The App calculate the tip amount based on a tip percentage and Bill Amount.   
+Default tip % can be adjusted.   
+Two color themes of dark blue and light blue are currently available.  
+Ability to round off the total.   
+App works in portrait and landscape mode.   
 
 
 Please email us using the support link at the Settings page to report any issues or for future features requests.  
@@ -30,7 +25,7 @@ Completed user stories:
 * [x] Optional: Ability to round off the tip amount. Can be enabled from Settings.
 * [x] Optional: About page and ability to send a support email.
 * [x] Optional: Has a custom launch file. 
-* [x] Optional: Supports Auto Layout. App works on various iOS platforms and Potrait/Landscape orientation. 
+* [x] Optional: Supports Auto Layout. App works on various iOS platforms and Portrait/Landscape orientation. 
 
 Notes:
 
