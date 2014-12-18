@@ -11,7 +11,7 @@ Ability to round off the total.
 App works in portrait and landscape mode.   
 
 
-Please email us using the support link at the Settings page to report any issues or for future features requests.  
+Please email us using the support link at the Settings page to report any issues or for future feature requests.  
 
 Time spent: 8 hours spent in total
 
